@@ -1,1 +1,1 @@
-print(input("Поле для ввода: "))
+print("Hello World")
